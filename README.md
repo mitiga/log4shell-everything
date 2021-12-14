@@ -24,7 +24,7 @@ Log4Shell sample vulnerable application |A vulnerable Spring Boot web applicati
 Log4j Hotpatch|Tool that hotpatches a running JVM process|Amazon/Corretto|[Link](https://github.com/corretto/hotpatch-for-apache-log4j2)|
 
 
-## Vendor Advisories
+## Vendor Advisories and Affected Componenets
 
 Name|Description|Source|Link|
 :---|:---|:---|:---|
@@ -37,6 +37,7 @@ Salesforce|Update for Apache Log4j2 Issue |Salesforce|[Link](https://status.sal
 Cisco|Log4j Developer Response|Cisco|[Link](https://blogs.cisco.com/developer/log4jdevresponse01?ccid=appdynamics-page&dtid=linkedin&oid=michaelchenetz-fy22-q2-0000-log4jdevresponse01-ww)|
 Log4Shell log4j vulnerability (CVE-2021-44228) - cheat-sheet reference guide|List of vendors' responses|Tech Solvency / Royce Williams|[Link](https://www.techsolvency.com/story-so-far/cve-2021-44228-log4j-log4shell/)|
 Security Advisories / Bulletins linked to Log4Shell |List of vendors' responses|GitHub/SwitHak|[Link](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592)|
+log4j-log4shell-affected|Lists of affected components and affected apps/vendors|GitHub/authomize|[Link](https://github.com/authomize/log4j-log4shell-affected)|
 
 
 ## Indicators of Compromise
