@@ -1,4 +1,4 @@
-# log4shell-links
+# log4shell-links - Everything in one place
 ### One place for all Log4Shell resources and useful links.
 Last update: Monday, 14 December 2021, 09:45 ET
 
@@ -73,3 +73,8 @@ Detecting Log4j in Your Applications|How to detect Log4j Vulnerability in your a
 Govcert Log4j Update|Log4j in a nutshell. From attack to prevention.|Swiss Govcert|[Link](https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/)|
 Video - Log4j Detection|Exactly what you need to know about log4j , how to demo it, detect it, & how to respond.|Youtube|[Link](https://www.youtube.com/watch?v=GvS-V27kFps)|
 Check Point Log4j Inforgraphic|Inforgraphics and statistics|Check Point|[Link](https://www.checkpoint.com/wp-content/uploads/log4j-pandemic-visualization.jpg)|
+
+
+
+## Contact us
+In order to add items to the list, email us at [contact@mitiga.io](mailto:contact@mitiga.io) or [contact as directly](https://www.linkedin.com/in/ormatt).
