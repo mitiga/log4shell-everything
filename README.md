@@ -6,6 +6,9 @@ Last update: Monday, 14 December 2021, 09:45 ET
 Security teams all over the world are rushing to deal with the new critical zero-day vulnerability dubbed Log4Shell.
 <br>
 This vulnerability in Apache Log4j, a popular open-source Java logging library, has the potential to enable threat actors to compromise systems at scale.
+<br>
+Read more about this in our [blog post](https://www.mitiga.io/blog/log4shell-everything-in-one-place).
+
 
 Here is a curated list of everything that you should know, and everything you should do.
 
