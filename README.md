@@ -1,7 +1,14 @@
 # log4shell-links
-#### One place for all Log4Shell resources and useful links.
+### One place for all Log4Shell resources and useful links.
+Last update: Monday, 14 December 2021, 09:45 ET
 
-Last update: Monday, 13 December 2021, 18:45
+## Background 
+Security teams all over the world are rushing to deal with the new critical zero-day vulnerability dubbed Log4Shell.
+<br>
+This vulnerability in Apache Log4j, a popular open-source Java logging library, has the potential to enable threat actors to compromise systems at scale.
+
+Here is a curated list of everything that you should know, and everything you should do.
+
 
 ## Detection
 
@@ -65,4 +72,4 @@ Log4Shell Report|Booklet including Vulnerability Assessment & Mitigation w/ doze
 Detecting Log4j in Your Applications|How to detect Log4j Vulnerability in your applications|InfoWorld|[Link](https://www.infoworld.com/article/3644492/how-to-detect-the-log4j-vulnerability-in-your-applications.html)|
 Govcert Log4j Update|Log4j in a nutshell. From attack to prevention.|Swiss Govcert|[Link](https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/)|
 Video - Log4j Detection|Exactly what you need to know about log4j , how to demo it, detect it, & how to respond.|Youtube|[Link](https://www.youtube.com/watch?v=GvS-V27kFps)|
-
+Check Point Log4j Inforgraphic|Inforgraphics and statistics|Check Point|[Link](https://www.checkpoint.com/wp-content/uploads/log4j-pandemic-visualization.jpg)|
