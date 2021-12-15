@@ -1,6 +1,6 @@
 # log4shell-everything - Everything Log4Shell in one place
 ### A continually updated place for valuable Log4Shell resources and useful links.
-Last update: Monday, 15 December 2021, 02:17 ET
+Last update: Monday, 15 December 2021, 02:17 ET 
 
 ## Background 
 Security teams all over the world are rushing to deal with the new critical zero-day vulnerability dubbed Log4Shell.
