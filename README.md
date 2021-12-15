@@ -9,7 +9,6 @@ This vulnerability in Apache Log4j, a popular open-source Java logging library, 
 <br>
 Read more about this in our [blog post](https://www.mitiga.io/blog/log4shell-everything-in-one-place).
 
-
 Here is a curated list of everything that you should know, and everything you should do.
 
 
@@ -78,7 +77,12 @@ Video - Log4j Detection|Exactly what you need to know about log4j , how to demo 
 Check Point Log4j Inforgraphic|Inforgraphics and statistics|Check Point|[Link](https://www.checkpoint.com/wp-content/uploads/log4j-pandemic-visualization.jpg)|
 Second log4j Vulnerability  🆕  |Details about CVE-2021-45046|LunaSec|[Link](https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/)|
 
+<br>
 
+## Log4Shell Explained
+![Log4Shell Explained](/assets/log4shell_explained.png)
+
+<br>
 
 ## Contact us
 In order to add items to the list, email us at [contact@mitiga.io](mailto:contact@mitiga.io) or [contact as directly](https://www.linkedin.com/in/ormatt).
