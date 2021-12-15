@@ -1,4 +1,4 @@
-# log4shell-everything - One place for everything (valuable) about Log4Shell.
+# **log4shell-everything** – One place for all valuable things about Log4Shell.
 ### A continually updated page for valuable Log4Shell resources and useful links.
 Last update: Monday, 15 December 2021, 02:17 ET 
 
@@ -77,8 +77,6 @@ Govcert Log4j Update|Log4j in a nutshell. From attack to prevention.|Swiss Govce
 Video - Log4j Detection|Exactly what you need to know about log4j , how to demo it, detect it, & how to respond.|Youtube|[Link](https://www.youtube.com/watch?v=GvS-V27kFps)|
 Check Point Log4j Inforgraphic|Inforgraphics and statistics|Check Point|[Link](https://www.checkpoint.com/wp-content/uploads/log4j-pandemic-visualization.jpg)|
 Second log4j Vulnerability  🆕  |Details about CVE-2021-45046|LunaSec|[Link](https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/)|
-
-
 
 
 
