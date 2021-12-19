@@ -21,6 +21,8 @@ log4shell-detector|Detector for Log4Shell exploitation attempts|GitHub/Neo23x0|[
 Log4ShellScanner|Scans and catches callbacks of systems that are impacted by Log4J Log4Shell vulnerability across specific headers|GitHub/mwarnerblu|[Link](https://github.com/mwarnerblu/Log4ShellScanner)|
 burp-log4shell|Log4Shell scanner for Burp Suite|GitHub/silentsignal|[Link](https://github.com/silentsignal/burp-log4shell)|
 nse-log4shell|Nmap NSE scripts to check against Log4Shell vulnerabilities|Githuib/Diverto|[Link](https://github.com/Diverto/nse-log4shell)|
+Log4jScanner|Scans only internal subnets for vulnerable log4j|Githuib/proferosec|[Link](https://github.com/proferosec/log4jScanner)|
+
 
 ## Remediation
 
